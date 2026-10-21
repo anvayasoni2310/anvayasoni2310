@@ -32,9 +32,11 @@ https://github.com/anvayasoni2310/my-coding-journey
 
 ⸻
 
-you can reach out to me over - 
+📫 Connect With Me
 • instagram - @anvaya.soni 
+
 • url of instagram- https://www.instagram.com/anvaya.soni?dlrf=MTdoMGlsZzBtOXIyaw==
+
 • email - anvaya.soni.2310@gmail.com
 
 ✨ This is just the beginning of my coding journey!
