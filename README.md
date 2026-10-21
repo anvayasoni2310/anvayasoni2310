@@ -14,7 +14,14 @@ Hi, I’m Anvaya! 👋
 
 🚀 My Projects
 
-* HelloWorld.java — My first Java program, created and uploaded using my iPhone.
+☕ Java Projects
+
+My beginner Java projects, created and uploaded using my iPhone.
+
+* HelloWorld.java — My first Java program.
+* Calculator.java — A calculator supporting addition, subtraction, multiplication, division, decimals, and repeated calculations.
+
+
 
 🎯 My Goals
 
@@ -24,19 +31,4 @@ Hi, I’m Anvaya! 👋
 
 ⸻
 
-This is just the beginning of my coding journey!
-
-<!--
-**anvayasoni2310/anvayasoni2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ This is just the beginning of my coding journey!
